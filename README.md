@@ -87,13 +87,11 @@ This repository covers two tasks completed as part of the **CodeAlpha Data Analy
 
 ## 📷 Visuals
 
-```
 <img width="504" height="360" alt="image" src="https://github.com/user-attachments/assets/56772ade-501f-45c8-a016-22d237731e21" />
 <img width="735" height="466" alt="image" src="https://github.com/user-attachments/assets/6965c8df-0900-4f7c-b7ea-d8a14a6c9326" />
 <img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/94c21a1d-13b7-40c8-a671-35a8739621fe" />
 <img width="691" height="497" alt="image" src="https://github.com/user-attachments/assets/2dc0ec78-572d-420e-a6fc-85c2e952674b" />
 <img width="360" height="219" alt="image" src="https://github.com/user-attachments/assets/a40e2fd1-0f05-4f23-90bb-312f50efaf82" />
-```
 
 ## 🚀 How to Run
 
