@@ -17,11 +17,10 @@ This repository covers two tasks completed as part of the **CodeAlpha Data Analy
 
 ## 📁 Project Structure
 ```
-├── Codealpha_Task1_Polished.ipynb        # EDA notebook
-├── CodeAlpha_DataVisualization.ipynb     # Visualization notebook
-├── Codealpha_Task2.pbix                  # Power BI dashboard
-├── README.md
-└── images/                               # Chart screenshots and dashboard exports
+├── Codealpha_Task2.ipynb        # EDA notebook
+├── Codealpha_Task3.pbix          # Dashboard
+└── README.md
+
 ```
 
 ---
@@ -109,7 +108,7 @@ This repository covers two tasks completed as part of the **CodeAlpha Data Analy
 3. Open either `.ipynb` file in Jupyter and run all cells in order
 
 **Power BI dashboard:**
-1. Open `Codealpha_Task2.pbix` in Power BI Desktop
+1. Open `Codealpha_Task3.pbix` in Power BI Desktop
 2. If prompted, point the data source to your local copy of `Order_delivery.csv`
 3. Use the slicers to explore by city or traffic level
 
